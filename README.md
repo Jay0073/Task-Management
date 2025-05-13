@@ -134,12 +134,6 @@ Pull requests are welcome! If you find bugs or have suggestions, feel free to fo
 
 ---
 
-## 📌 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙋‍♂️ Author
 
 Made with focus (and a bit of boredom) by [@Jay0073](https://github.com/Jay0073)
